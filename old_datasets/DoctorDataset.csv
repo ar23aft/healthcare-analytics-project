@@ -1,0 +1,16 @@
+﻿DoctorID,Department,Rating,ConsultancyFee
+D001,Dermatologist,4.5,5400
+D002,Dermatologist,4.2,4800
+D003,Dermatologist,4.3,5550
+D004,Dermatologist,3.8,4050
+D005,Dermatologist,3.5,3600
+D006,Ophthalmologist,2.9,3150
+D007,Ophthalmologist,3.9,4950
+D008,Ophthalmologist,3.7,3900
+D009,Ophthalmologist,3.7,4050
+D010,Ophthalmologist,4,5250
+D011,Pulmonologist,4.1,5100
+D012,Pulmonologist,4.5,5700
+D013,Pulmonologist,3.5,3600
+D014,Pulmonologist,4.5,6000
+D015,Pulmonologist,3.7,4500

@@ -1,0 +1,501 @@
+﻿Patient_ID,Date,Day,Time,Doctor_ID,Department,Age,Gender,Outdoor_Activity,Diagnosis,Consultancy_Fee,Hospital_Fee,Total_Cost
+P0001,2026-03-03,Tuesday,11:00,D015,Pulmonologist,58,Male,High,Normal,4500,1500,6000
+P0002,2026-03-11,Wednesday,13:00,D013,Pulmonologist,31,Female,Medium,Normal,3600,1000,4600
+P0003,2026-03-31,Tuesday,11:00,D004,Dermatologist,56,Male,Medium,Rash,4050,2000,6050
+P0004,2026-03-05,Thursday,11:00,D013,Pulmonologist,49,Female,Medium,Normal,3600,1500,5100
+P0005,2026-03-31,Tuesday,9:00,D011,Pulmonologist,27,Male,High,Breathing Issues,5100,2000,7100
+P0006,2026-03-24,Tuesday,12:00,D003,Dermatologist,64,Female,Medium,Rash,5550,2000,7550
+P0007,2026-03-17,Tuesday,9:00,D001,Dermatologist,43,Male,High,Rash,5400,1500,6900
+P0008,2026-03-11,Wednesday,9:00,D011,Pulmonologist,66,Male,Medium,Normal,5100,1000,6100
+P0009,2026-03-20,Friday,10:00,D005,Dermatologist,66,Female,High,Rash,3600,1500,5100
+P0010,2026-03-31,Tuesday,9:00,D007,Ophthalmologist,41,Female,Medium,Intense Itching,4950,2000,6950
+P0011,2026-03-19,Thursday,13:00,D013,Pulmonologist,52,Male,Medium,Nasal Congestion,3600,1500,5100
+P0012,2026-03-12,Thursday,11:00,D006,Ophthalmologist,45,Male,Low,Normal,3150,1000,4150
+P0013,2026-03-25,Wednesday,14:00,D003,Dermatologist,68,Female,Low,Rash,5550,2000,7550
+P0014,2026-03-13,Friday,10:00,D010,Ophthalmologist,66,Male,Low,Normal,5250,1000,6250
+P0015,2026-03-17,Tuesday,13:00,D010,Ophthalmologist,79,Female,Medium,Intense Itching,5250,1500,6750
+P0016,2026-03-20,Friday,10:00,D010,Ophthalmologist,13,Male,Medium,Redness,5250,1500,6750
+P0017,2026-03-17,Tuesday,12:00,D005,Dermatologist,51,Female,Low,Rash,3600,1500,5100
+P0018,2026-03-19,Thursday,10:00,D010,Ophthalmologist,75,Male,High,Redness,5250,1500,6750
+P0019,2026-03-31,Tuesday,13:00,D003,Dermatologist,42,Male,High,Rash,5550,2000,7550
+P0020,2026-03-31,Tuesday,12:00,D009,Ophthalmologist,37,Female,Medium,Intense Itching,4050,2000,6050
+P0021,2026-03-16,Monday,14:00,D013,Pulmonologist,75,Female,Medium,Nasal Congestion,3600,1500,5100
+P0022,2026-03-30,Monday,13:00,D013,Pulmonologist,27,Female,High,Nasal Congestion,3600,2000,5600
+P0023,2026-03-03,Tuesday,9:00,D004,Dermatologist,35,Female,High,Dryness,4050,1500,5550
+P0024,2026-03-20,Friday,12:00,D003,Dermatologist,5,Female,Low,Rash,5550,1500,7050
+P0025,2026-03-02,Monday,14:00,D011,Pulmonologist,34,Male,Medium,Normal,5100,1500,6600
+P0026,2026-03-27,Friday,12:00,D007,Ophthalmologist,31,Male,Low,Redness,4950,2000,6950
+P0027,2026-03-24,Tuesday,11:00,D005,Dermatologist,52,Female,High,Rash,3600,2000,5600
+P0028,2026-03-09,Monday,13:00,D007,Ophthalmologist,54,Male,Medium,Normal,4950,1000,5950
+P0029,2026-03-18,Wednesday,11:00,D011,Pulmonologist,54,Female,High,Breathing Issues,5100,1500,6600
+P0030,2026-03-02,Monday,12:00,D011,Pulmonologist,79,Female,Medium,Normal,5100,1500,6600
+P0031,2026-03-04,Wednesday,14:00,D007,Ophthalmologist,27,Female,Low,Normal,4950,1500,6450
+P0032,2026-03-05,Thursday,14:00,D001,Dermatologist,8,Female,Low,Dryness,5400,1500,6900
+P0033,2026-03-04,Wednesday,14:00,D006,Ophthalmologist,5,Female,Medium,Normal,3150,1500,4650
+P0034,2026-03-25,Wednesday,12:00,D013,Pulmonologist,80,Male,Low,Breathing Issues,3600,2000,5600
+P0035,2026-03-04,Wednesday,11:00,D013,Pulmonologist,80,Female,Low,Normal,3600,1500,5100
+P0036,2026-03-17,Tuesday,11:00,D001,Dermatologist,45,Female,High,Rash,5400,1500,6900
+P0037,2026-03-06,Friday,12:00,D010,Ophthalmologist,46,Male,Medium,Normal,5250,1500,6750
+P0038,2026-03-23,Monday,13:00,D004,Dermatologist,74,Female,High,Rash,4050,2000,6050
+P0039,2026-03-30,Monday,13:00,D013,Pulmonologist,32,Male,Medium,Nasal Congestion,3600,2000,5600
+P0040,2026-03-04,Wednesday,12:00,D006,Ophthalmologist,67,Female,Low,Normal,3150,1500,4650
+P0041,2026-03-03,Tuesday,9:00,D001,Dermatologist,33,Female,High,Dryness,5400,1500,6900
+P0042,2026-03-16,Monday,9:00,D014,Pulmonologist,9,Male,Medium,Nasal Congestion,6000,1500,7500
+P0043,2026-03-31,Tuesday,13:00,D015,Pulmonologist,28,Male,Medium,Breathing Issues,4500,2000,6500
+P0044,2026-03-26,Thursday,13:00,D002,Dermatologist,20,Female,Low,Rash,4800,2000,6800
+P0045,2026-03-06,Friday,13:00,D008,Ophthalmologist,77,Female,High,Normal,3900,1500,5400
+P0046,2026-03-16,Monday,10:00,D010,Ophthalmologist,61,Female,Medium,Intense Itching,5250,1500,6750
+P0047,2026-03-26,Thursday,14:00,D009,Ophthalmologist,60,Male,Medium,Redness,4050,2000,6050
+P0048,2026-03-13,Friday,11:00,D008,Ophthalmologist,53,Male,High,Normal,3900,1000,4900
+P0049,2026-03-06,Friday,10:00,D003,Dermatologist,44,Male,Low,Dryness,5550,1500,7050
+P0050,2026-03-04,Wednesday,14:00,D007,Ophthalmologist,38,Female,Low,Normal,4950,1500,6450
+P0051,2026-03-18,Wednesday,11:00,D007,Ophthalmologist,65,Female,Low,Intense Itching,4950,1500,6450
+P0052,2026-03-19,Thursday,13:00,D002,Dermatologist,47,Male,Low,Rash,4800,1500,6300
+P0053,2026-03-02,Monday,11:00,D004,Dermatologist,66,Male,Medium,Dryness,4050,1500,5550
+P0054,2026-03-04,Wednesday,13:00,D009,Ophthalmologist,59,Female,Medium,Normal,4050,1500,5550
+P0055,2026-03-24,Tuesday,9:00,D003,Dermatologist,80,Male,Medium,Rash,5550,2000,7550
+P0056,2026-03-16,Monday,12:00,D003,Dermatologist,39,Female,Low,Normal,5550,1500,7050
+P0057,2026-03-10,Tuesday,9:00,D002,Dermatologist,11,Male,Low,Normal,4800,1000,5800
+P0058,2026-03-12,Thursday,13:00,D008,Ophthalmologist,24,Female,Low,Normal,3900,1000,4900
+P0059,2026-03-23,Monday,13:00,D004,Dermatologist,72,Female,Medium,Rash,4050,2000,6050
+P0060,2026-03-26,Thursday,9:00,D002,Dermatologist,46,Female,High,Injury/Surgery,4800,2000,6800
+P0061,2026-03-03,Tuesday,13:00,D003,Dermatologist,10,Female,High,Dryness,5550,1500,7050
+P0062,2026-03-11,Wednesday,14:00,D015,Pulmonologist,62,Male,High,Normal,4500,1000,5500
+P0063,2026-03-03,Tuesday,9:00,D001,Dermatologist,66,Male,Low,Dryness,5400,1500,6900
+P0064,2026-03-31,Tuesday,13:00,D008,Ophthalmologist,66,Female,High,Redness,3900,2000,5900
+P0065,2026-03-02,Monday,9:00,D014,Pulmonologist,34,Male,High,Normal,6000,1500,7500
+P0066,2026-03-30,Monday,10:00,D012,Pulmonologist,8,Male,Low,Nasal Congestion,5700,2000,7700
+P0067,2026-03-24,Tuesday,12:00,D014,Pulmonologist,6,Male,Medium,Nasal Congestion,6000,2000,8000
+P0068,2026-03-23,Monday,13:00,D011,Pulmonologist,16,Male,High,Nasal Congestion,5100,2000,7100
+P0069,2026-03-06,Friday,11:00,D005,Dermatologist,54,Female,Low,Dryness,3600,1500,5100
+P0070,2026-03-30,Monday,12:00,D003,Dermatologist,68,Male,Medium,Rash,5550,2000,7550
+P0071,2026-03-24,Tuesday,11:00,D004,Dermatologist,79,Male,Medium,Rash,4050,2000,6050
+P0072,2026-03-13,Friday,14:00,D013,Pulmonologist,54,Female,Medium,Normal,3600,1000,4600
+P0073,2026-03-16,Monday,11:00,D001,Dermatologist,77,Female,Medium,Rash,5400,1500,6900
+P0074,2026-03-05,Thursday,13:00,D004,Dermatologist,78,Male,Low,Dryness,4050,1500,5550
+P0075,2026-03-05,Thursday,10:00,D003,Dermatologist,60,Female,High,Dryness,5550,1500,7050
+P0076,2026-03-30,Monday,13:00,D015,Pulmonologist,59,Male,Low,Breathing Issues,4500,2000,6500
+P0077,2026-03-18,Wednesday,14:00,D009,Ophthalmologist,43,Male,Medium,Redness,4050,1500,5550
+P0078,2026-03-11,Wednesday,13:00,D014,Pulmonologist,77,Female,High,Normal,6000,1000,7000
+P0079,2026-03-26,Thursday,9:00,D012,Pulmonologist,19,Male,Medium,Breathing Issues,5700,2000,7700
+P0080,2026-03-06,Friday,11:00,D006,Ophthalmologist,51,Male,Low,Normal,3150,1500,4650
+P0081,2026-03-06,Friday,14:00,D003,Dermatologist,32,Female,Low,Dryness,5550,1500,7050
+P0082,2026-03-26,Thursday,12:00,D014,Pulmonologist,71,Female,Medium,Breathing Issues,6000,2000,8000
+P0083,2026-03-12,Thursday,12:00,D006,Ophthalmologist,50,Female,High,Normal,3150,1000,4150
+P0084,2026-03-04,Wednesday,13:00,D002,Dermatologist,40,Female,Medium,Dryness,4800,1500,6300
+P0085,2026-03-13,Friday,11:00,D009,Ophthalmologist,23,Male,Medium,Normal,4050,1000,5050
+P0086,2026-03-26,Thursday,10:00,D014,Pulmonologist,55,Male,High,Breathing Issues,6000,2000,8000
+P0087,2026-03-05,Thursday,13:00,D015,Pulmonologist,58,Male,Medium,Normal,4500,1500,6000
+P0088,2026-03-17,Tuesday,12:00,D011,Pulmonologist,80,Female,Low,Nasal Congestion,5100,1500,6600
+P0089,2026-03-12,Thursday,13:00,D006,Ophthalmologist,53,Male,High,Normal,3150,1000,4150
+P0090,2026-03-20,Friday,10:00,D010,Ophthalmologist,59,Male,High,Intense Itching,5250,1500,6750
+P0091,2026-03-10,Tuesday,12:00,D008,Ophthalmologist,64,Female,High,Normal,3900,1000,4900
+P0092,2026-03-30,Monday,13:00,D013,Pulmonologist,7,Male,High,Nasal Congestion,3600,2000,5600
+P0093,2026-03-23,Monday,10:00,D009,Ophthalmologist,26,Male,Medium,Redness,4050,2000,6050
+P0094,2026-03-02,Monday,14:00,D007,Ophthalmologist,71,Male,Low,Normal,4950,1500,6450
+P0095,2026-03-18,Wednesday,10:00,D003,Dermatologist,60,Female,Low,Normal,5550,1500,7050
+P0096,2026-03-05,Thursday,14:00,D005,Dermatologist,66,Male,Low,Dryness,3600,1500,5100
+P0097,2026-03-17,Tuesday,10:00,D006,Ophthalmologist,73,Female,Low,Intense Itching,3150,1500,4650
+P0098,2026-03-23,Monday,10:00,D015,Pulmonologist,46,Female,High,Breathing Issues,4500,2000,6500
+P0099,2026-03-05,Thursday,10:00,D014,Pulmonologist,76,Female,Medium,Normal,6000,1500,7500
+P0100,2026-03-24,Tuesday,12:00,D010,Ophthalmologist,18,Male,High,Intense Itching,5250,2000,7250
+P0101,2026-03-04,Wednesday,13:00,D013,Pulmonologist,69,Female,Medium,Normal,3600,1500,5100
+P0102,2026-03-17,Tuesday,14:00,D002,Dermatologist,28,Female,Medium,Rash,4800,1500,6300
+P0103,2026-03-19,Thursday,13:00,D013,Pulmonologist,11,Female,High,Breathing Issues,3600,1500,5100
+P0104,2026-03-26,Thursday,13:00,D011,Pulmonologist,8,Male,Medium,Breathing Issues,5100,2000,7100
+P0105,2026-03-03,Tuesday,14:00,D012,Pulmonologist,55,Female,Medium,Normal,5700,1500,7200
+P0106,2026-03-17,Tuesday,13:00,D013,Pulmonologist,78,Female,High,Nasal Congestion,3600,1500,5100
+P0107,2026-03-18,Wednesday,10:00,D010,Ophthalmologist,35,Female,Low,Redness,5250,1500,6750
+P0108,2026-03-05,Thursday,13:00,D013,Pulmonologist,75,Male,Medium,Normal,3600,1500,5100
+P0109,2026-03-16,Monday,13:00,D008,Ophthalmologist,42,Male,Medium,Redness,3900,1500,5400
+P0110,2026-03-09,Monday,11:00,D005,Dermatologist,67,Male,Medium,Normal,3600,1000,4600
+P0111,2026-03-05,Thursday,11:00,D008,Ophthalmologist,55,Male,High,Normal,3900,1500,5400
+P0112,2026-03-20,Friday,11:00,D002,Dermatologist,59,Female,Medium,Rash,4800,1500,6300
+P0113,2026-03-19,Thursday,14:00,D013,Pulmonologist,5,Male,Medium,Nasal Congestion,3600,1500,5100
+P0114,2026-03-27,Friday,13:00,D004,Dermatologist,42,Male,High,Rash,4050,2000,6050
+P0115,2026-03-17,Tuesday,10:00,D007,Ophthalmologist,25,Female,Low,Intense Itching,4950,1500,6450
+P0116,2026-03-26,Thursday,13:00,D008,Ophthalmologist,52,Male,Low,Redness,3900,2000,5900
+P0117,2026-03-23,Monday,12:00,D010,Ophthalmologist,79,Female,Medium,Intense Itching,5250,2000,7250
+P0118,2026-03-18,Wednesday,12:00,D015,Pulmonologist,65,Male,Low,Nasal Congestion,4500,1500,6000
+P0119,2026-03-23,Monday,13:00,D004,Dermatologist,80,Male,Medium,Rash,4050,2000,6050
+P0120,2026-03-25,Wednesday,12:00,D003,Dermatologist,28,Female,Low,Rash,5550,2000,7550
+P0121,2026-03-04,Wednesday,9:00,D006,Ophthalmologist,56,Female,Low,Normal,3150,1500,4650
+P0122,2026-03-23,Monday,14:00,D012,Pulmonologist,59,Male,Medium,Breathing Issues,5700,2000,7700
+P0123,2026-03-02,Monday,9:00,D007,Ophthalmologist,20,Male,Medium,Normal,4950,1500,6450
+P0124,2026-03-11,Wednesday,12:00,D006,Ophthalmologist,9,Female,Medium,Normal,3150,1000,4150
+P0125,2026-03-19,Thursday,14:00,D002,Dermatologist,8,Female,Low,Rash,4800,1500,6300
+P0126,2026-03-24,Tuesday,10:00,D005,Dermatologist,28,Male,Medium,Rash,3600,2000,5600
+P0127,2026-03-31,Tuesday,10:00,D012,Pulmonologist,62,Female,Medium,Breathing Issues,5700,2000,7700
+P0128,2026-03-12,Thursday,12:00,D015,Pulmonologist,54,Male,Low,Normal,4500,1000,5500
+P0129,2026-03-02,Monday,11:00,D002,Dermatologist,23,Female,Low,Dryness,4800,1500,6300
+P0130,2026-03-18,Wednesday,13:00,D005,Dermatologist,26,Male,High,Normal,3600,1500,5100
+P0131,2026-03-30,Monday,12:00,D009,Ophthalmologist,61,Male,High,Redness,4050,2000,6050
+P0132,2026-03-03,Tuesday,13:00,D002,Dermatologist,6,Male,Low,Dryness,4800,1500,6300
+P0133,2026-03-02,Monday,11:00,D008,Ophthalmologist,52,Male,Low,Normal,3900,1500,5400
+P0134,2026-03-26,Thursday,9:00,D006,Ophthalmologist,20,Female,Medium,Intense Itching,3150,2000,5150
+P0135,2026-03-17,Tuesday,12:00,D003,Dermatologist,38,Female,Low,Normal,5550,1500,7050
+P0136,2026-03-24,Tuesday,13:00,D013,Pulmonologist,14,Female,Low,Breathing Issues,3600,2000,5600
+P0137,2026-03-12,Thursday,13:00,D005,Dermatologist,46,Male,Medium,Normal,3600,1000,4600
+P0138,2026-03-23,Monday,14:00,D007,Ophthalmologist,28,Male,Low,Redness,4950,2000,6950
+P0139,2026-03-04,Wednesday,13:00,D008,Ophthalmologist,13,Female,Low,Normal,3900,1500,5400
+P0140,2026-03-30,Monday,9:00,D001,Dermatologist,52,Female,Low,Rash,5400,2000,7400
+P0141,2026-03-02,Monday,12:00,D015,Pulmonologist,52,Female,High,Normal,4500,1500,6000
+P0142,2026-03-20,Friday,12:00,D012,Pulmonologist,19,Male,Medium,Breathing Issues,5700,1500,7200
+P0143,2026-03-09,Monday,11:00,D006,Ophthalmologist,49,Female,High,Normal,3150,1000,4150
+P0144,2026-03-03,Tuesday,9:00,D013,Pulmonologist,62,Male,High,Normal,3600,1500,5100
+P0145,2026-03-12,Thursday,13:00,D013,Pulmonologist,11,Female,High,Normal,3600,1000,4600
+P0146,2026-03-05,Thursday,12:00,D011,Pulmonologist,53,Male,Low,Normal,5100,1500,6600
+P0147,2026-03-24,Tuesday,14:00,D009,Ophthalmologist,54,Female,High,Redness,4050,2000,6050
+P0148,2026-03-18,Wednesday,10:00,D006,Ophthalmologist,24,Female,High,Redness,3150,1500,4650
+P0149,2026-03-10,Tuesday,14:00,D011,Pulmonologist,32,Male,High,Normal,5100,1000,6100
+P0150,2026-03-10,Tuesday,9:00,D015,Pulmonologist,50,Female,High,Normal,4500,1000,5500
+P0151,2026-03-25,Wednesday,9:00,D014,Pulmonologist,59,Female,High,Breathing Issues,6000,2000,8000
+P0152,2026-03-13,Friday,9:00,D005,Dermatologist,24,Female,Medium,Normal,3600,1000,4600
+P0153,2026-03-20,Friday,11:00,D010,Ophthalmologist,12,Female,High,Redness,5250,1500,6750
+P0154,2026-03-26,Thursday,9:00,D005,Dermatologist,28,Male,High,Rash,3600,2000,5600
+P0155,2026-03-06,Friday,14:00,D005,Dermatologist,26,Female,Low,Dryness,3600,1500,5100
+P0156,2026-03-13,Friday,9:00,D011,Pulmonologist,54,Male,Low,Normal,5100,1000,6100
+P0157,2026-03-30,Monday,10:00,D003,Dermatologist,11,Male,High,Rash,5550,2000,7550
+P0158,2026-03-24,Tuesday,14:00,D015,Pulmonologist,79,Male,Medium,Nasal Congestion,4500,2000,6500
+P0159,2026-03-13,Friday,9:00,D015,Pulmonologist,11,Male,High,Normal,4500,1000,5500
+P0160,2026-03-06,Friday,14:00,D003,Dermatologist,48,Female,High,Dryness,5550,1500,7050
+P0161,2026-03-23,Monday,14:00,D003,Dermatologist,43,Male,Medium,Injury/Infection,5550,2000,7550
+P0162,2026-03-16,Monday,10:00,D001,Dermatologist,12,Male,High,Normal,5400,1500,6900
+P0163,2026-03-02,Monday,11:00,D007,Ophthalmologist,54,Female,High,Normal,4950,1500,6450
+P0164,2026-03-19,Thursday,11:00,D008,Ophthalmologist,46,Female,Low,Intense Itching,3900,1500,5400
+P0165,2026-03-11,Wednesday,12:00,D006,Ophthalmologist,60,Female,Low,Normal,3150,1000,4150
+P0166,2026-03-13,Friday,14:00,D014,Pulmonologist,33,Female,High,Normal,6000,1000,7000
+P0167,2026-03-12,Thursday,9:00,D011,Pulmonologist,63,Female,Low,Normal,5100,1000,6100
+P0168,2026-03-17,Tuesday,9:00,D005,Dermatologist,77,Female,Low,Normal,3600,1500,5100
+P0169,2026-03-05,Thursday,14:00,D007,Ophthalmologist,23,Male,High,Normal,4950,1500,6450
+P0170,2026-03-03,Tuesday,13:00,D001,Dermatologist,24,Female,Medium,Dryness,5400,1500,6900
+P0171,2026-03-25,Wednesday,14:00,D007,Ophthalmologist,53,Male,Low,Redness,4950,2000,6950
+P0172,2026-03-27,Friday,14:00,D011,Pulmonologist,55,Female,Low,Nasal Congestion,5100,2000,7100
+P0173,2026-03-23,Monday,11:00,D012,Pulmonologist,68,Male,Low,Breathing Issues,5700,2000,7700
+P0174,2026-03-02,Monday,11:00,D001,Dermatologist,76,Male,Medium,Dryness,5400,1500,6900
+P0175,2026-03-31,Tuesday,10:00,D015,Pulmonologist,68,Female,Medium,Breathing Issues,4500,2000,6500
+P0176,2026-03-16,Monday,12:00,D012,Pulmonologist,45,Female,Medium,Nasal Congestion,5700,1500,7200
+P0177,2026-03-26,Thursday,12:00,D007,Ophthalmologist,26,Male,Low,Redness,4950,2000,6950
+P0178,2026-03-18,Wednesday,9:00,D014,Pulmonologist,75,Female,Low,Breathing Issues,6000,1500,7500
+P0179,2026-03-18,Wednesday,12:00,D001,Dermatologist,79,Female,High,Rash,5400,1500,6900
+P0180,2026-03-27,Friday,10:00,D013,Pulmonologist,58,Female,High,Breathing Issues,3600,2000,5600
+P0181,2026-03-04,Wednesday,12:00,D010,Ophthalmologist,25,Male,Low,Normal,5250,1500,6750
+P0182,2026-03-16,Monday,12:00,D013,Pulmonologist,75,Female,Medium,Breathing Issues,3600,1500,5100
+P0183,2026-03-16,Monday,9:00,D006,Ophthalmologist,73,Male,High,Redness,3150,1500,4650
+P0184,2026-03-06,Friday,10:00,D010,Ophthalmologist,26,Female,Medium,Normal,5250,1500,6750
+P0185,2026-03-27,Friday,14:00,D007,Ophthalmologist,23,Female,Medium,Redness,4950,2000,6950
+P0186,2026-03-11,Wednesday,9:00,D003,Dermatologist,19,Female,High,Normal,5550,1000,6550
+P0187,2026-03-17,Tuesday,13:00,D007,Ophthalmologist,72,Female,Medium,Redness,4950,1500,6450
+P0188,2026-03-17,Tuesday,12:00,D012,Pulmonologist,17,Female,Low,Nasal Congestion,5700,1500,7200
+P0189,2026-03-18,Wednesday,10:00,D011,Pulmonologist,42,Male,Low,Nasal Congestion,5100,1500,6600
+P0190,2026-03-05,Thursday,10:00,D012,Pulmonologist,52,Female,Low,Normal,5700,1500,7200
+P0191,2026-03-26,Thursday,13:00,D015,Pulmonologist,45,Male,Low,Nasal Congestion,4500,2000,6500
+P0192,2026-03-19,Thursday,11:00,D011,Pulmonologist,37,Female,High,Injury/Infection,5100,1500,6600
+P0193,2026-03-18,Wednesday,14:00,D010,Ophthalmologist,44,Male,Low,Intense Itching,5250,1500,6750
+P0194,2026-03-20,Friday,13:00,D004,Dermatologist,45,Female,High,Injury/Surgery,4050,1500,5550
+P0195,2026-03-31,Tuesday,12:00,D009,Ophthalmologist,36,Female,Low,Intense Itching,4050,2000,6050
+P0196,2026-03-11,Wednesday,9:00,D006,Ophthalmologist,42,Female,Medium,Normal,3150,1000,4150
+P0197,2026-03-17,Tuesday,9:00,D007,Ophthalmologist,47,Male,Medium,Redness,4950,1500,6450
+P0198,2026-03-25,Wednesday,14:00,D010,Ophthalmologist,50,Female,High,Intense Itching,5250,2000,7250
+P0199,2026-03-20,Friday,9:00,D013,Pulmonologist,13,Male,High,Nasal Congestion,3600,1500,5100
+P0200,2026-03-19,Thursday,10:00,D008,Ophthalmologist,15,Female,High,Intense Itching,3900,1500,5400
+P0201,2026-03-03,Tuesday,9:00,D009,Ophthalmologist,52,Male,Medium,Normal,4050,1500,5550
+P0202,2026-03-20,Friday,11:00,D002,Dermatologist,52,Male,High,Rash,4800,1500,6300
+P0203,2026-03-19,Thursday,9:00,D014,Pulmonologist,32,Male,Medium,Breathing Issues,6000,1500,7500
+P0204,2026-03-26,Thursday,11:00,D013,Pulmonologist,18,Female,Low,Breathing Issues,3600,2000,5600
+P0205,2026-03-09,Monday,11:00,D014,Pulmonologist,7,Female,Medium,Normal,6000,1000,7000
+P0206,2026-03-09,Monday,14:00,D004,Dermatologist,22,Female,Low,Normal,4050,1000,5050
+P0207,2026-03-30,Monday,11:00,D005,Dermatologist,14,Male,Medium,Rash,3600,2000,5600
+P0208,2026-03-19,Thursday,12:00,D007,Ophthalmologist,47,Male,High,Redness,4950,1500,6450
+P0209,2026-03-20,Friday,10:00,D008,Ophthalmologist,74,Female,Low,Intense Itching,3900,1500,5400
+P0210,2026-03-10,Tuesday,14:00,D002,Dermatologist,66,Female,High,Normal,4800,1000,5800
+P0211,2026-03-02,Monday,9:00,D002,Dermatologist,14,Female,Medium,Dryness,4800,1500,6300
+P0212,2026-03-30,Monday,13:00,D015,Pulmonologist,53,Female,Low,Breathing Issues,4500,2000,6500
+P0213,2026-03-26,Thursday,10:00,D011,Pulmonologist,75,Female,High,Nasal Congestion,5100,2000,7100
+P0214,2026-03-30,Monday,14:00,D003,Dermatologist,45,Male,Low,Rash,5550,2000,7550
+P0215,2026-03-05,Thursday,9:00,D002,Dermatologist,70,Female,High,Dryness,4800,1500,6300
+P0216,2026-03-31,Tuesday,12:00,D003,Dermatologist,74,Female,Low,Rash,5550,2000,7550
+P0217,2026-03-06,Friday,13:00,D002,Dermatologist,12,Male,Low,Dryness,4800,1500,6300
+P0218,2026-03-25,Wednesday,9:00,D012,Pulmonologist,17,Male,Medium,Nasal Congestion,5700,2000,7700
+P0219,2026-03-25,Wednesday,9:00,D002,Dermatologist,29,Female,High,Rash,4800,2000,6800
+P0220,2026-03-23,Monday,12:00,D004,Dermatologist,76,Male,Low,Rash,4050,2000,6050
+P0221,2026-03-16,Monday,13:00,D009,Ophthalmologist,29,Female,Low,Redness,4050,1500,5550
+P0222,2026-03-04,Wednesday,13:00,D007,Ophthalmologist,23,Female,High,Normal,4950,1500,6450
+P0223,2026-03-24,Tuesday,13:00,D009,Ophthalmologist,57,Female,Low,Redness,4050,2000,6050
+P0224,2026-03-25,Wednesday,10:00,D005,Dermatologist,25,Female,Medium,Rash,3600,2000,5600
+P0225,2026-03-26,Thursday,14:00,D007,Ophthalmologist,13,Male,Medium,Redness,4950,2000,6950
+P0226,2026-03-12,Thursday,13:00,D002,Dermatologist,35,Female,Medium,Normal,4800,1000,5800
+P0227,2026-03-09,Monday,9:00,D007,Ophthalmologist,29,Male,Low,Normal,4950,1000,5950
+P0228,2026-03-06,Friday,12:00,D001,Dermatologist,37,Male,High,Dryness,5400,1500,6900
+P0229,2026-03-13,Friday,14:00,D005,Dermatologist,52,Female,High,Normal,3600,1000,4600
+P0230,2026-03-30,Monday,11:00,D012,Pulmonologist,13,Female,High,Breathing Issues,5700,2000,7700
+P0231,2026-03-30,Monday,10:00,D006,Ophthalmologist,8,Male,Medium,Redness,3150,2000,5150
+P0232,2026-03-31,Tuesday,10:00,D015,Pulmonologist,77,Male,Medium,Breathing Issues,4500,2000,6500
+P0233,2026-03-20,Friday,12:00,D006,Ophthalmologist,33,Male,Low,Intense Itching,3150,1500,4650
+P0234,2026-03-13,Friday,14:00,D001,Dermatologist,44,Female,Medium,Normal,5400,1000,6400
+P0235,2026-03-03,Tuesday,11:00,D002,Dermatologist,15,Female,High,Dryness,4800,1500,6300
+P0236,2026-03-30,Monday,11:00,D008,Ophthalmologist,68,Female,Medium,Redness,3900,2000,5900
+P0237,2026-03-23,Monday,10:00,D004,Dermatologist,26,Male,High,Rash,4050,2000,6050
+P0238,2026-03-04,Wednesday,9:00,D010,Ophthalmologist,24,Male,Low,Normal,5250,1500,6750
+P0239,2026-03-26,Thursday,13:00,D014,Pulmonologist,32,Female,High,Breathing Issues,6000,2000,8000
+P0240,2026-03-02,Monday,11:00,D002,Dermatologist,33,Female,Low,Dryness,4800,1500,6300
+P0241,2026-03-31,Tuesday,11:00,D010,Ophthalmologist,71,Female,High,Injury/Surgery,5250,2000,7250
+P0242,2026-03-12,Thursday,14:00,D005,Dermatologist,38,Male,High,Normal,3600,1000,4600
+P0243,2026-03-10,Tuesday,10:00,D015,Pulmonologist,61,Male,High,Normal,4500,1000,5500
+P0244,2026-03-20,Friday,13:00,D003,Dermatologist,44,Female,High,Normal,5550,1500,7050
+P0245,2026-03-10,Tuesday,9:00,D009,Ophthalmologist,78,Female,High,Normal,4050,1000,5050
+P0246,2026-03-13,Friday,11:00,D006,Ophthalmologist,67,Female,High,Normal,3150,1000,4150
+P0247,2026-03-31,Tuesday,9:00,D015,Pulmonologist,25,Male,Low,Breathing Issues,4500,2000,6500
+P0248,2026-03-30,Monday,11:00,D001,Dermatologist,22,Male,Medium,Rash,5400,2000,7400
+P0249,2026-03-11,Wednesday,12:00,D007,Ophthalmologist,22,Male,High,Normal,4950,1000,5950
+P0250,2026-03-04,Wednesday,12:00,D006,Ophthalmologist,49,Female,High,Normal,3150,1500,4650
+P0251,2026-03-17,Tuesday,14:00,D006,Ophthalmologist,68,Female,High,Redness,3150,1500,4650
+P0252,2026-03-27,Friday,10:00,D012,Pulmonologist,8,Male,Medium,Nasal Congestion,5700,2000,7700
+P0253,2026-03-30,Monday,9:00,D005,Dermatologist,72,Female,Medium,Injury/Infection,3600,2000,5600
+P0254,2026-03-17,Tuesday,10:00,D003,Dermatologist,11,Male,High,Normal,5550,1500,7050
+P0255,2026-03-04,Wednesday,10:00,D010,Ophthalmologist,79,Female,High,Normal,5250,1500,6750
+P0256,2026-03-27,Friday,11:00,D003,Dermatologist,39,Male,Low,Rash,5550,2000,7550
+P0257,2026-03-03,Tuesday,10:00,D005,Dermatologist,47,Female,Medium,Dryness,3600,1500,5100
+P0258,2026-03-19,Thursday,11:00,D008,Ophthalmologist,63,Male,High,Intense Itching,3900,1500,5400
+P0259,2026-03-05,Thursday,11:00,D013,Pulmonologist,80,Male,Low,Normal,3600,1500,5100
+P0260,2026-03-16,Monday,9:00,D002,Dermatologist,22,Female,Medium,Normal,4800,1500,6300
+P0261,2026-03-04,Wednesday,9:00,D003,Dermatologist,64,Male,Low,Dryness,5550,1500,7050
+P0262,2026-03-24,Tuesday,13:00,D011,Pulmonologist,16,Female,Low,Breathing Issues,5100,2000,7100
+P0263,2026-03-12,Thursday,14:00,D003,Dermatologist,57,Female,Low,Injury/Surgery,5550,1000,6550
+P0264,2026-03-25,Wednesday,14:00,D015,Pulmonologist,46,Male,Medium,Nasal Congestion,4500,2000,6500
+P0265,2026-03-27,Friday,12:00,D010,Ophthalmologist,41,Male,Medium,Intense Itching,5250,2000,7250
+P0266,2026-03-26,Thursday,9:00,D002,Dermatologist,45,Female,High,Rash,4800,2000,6800
+P0267,2026-03-12,Thursday,14:00,D009,Ophthalmologist,64,Female,Low,Normal,4050,1000,5050
+P0268,2026-03-18,Wednesday,11:00,D005,Dermatologist,19,Male,Medium,Rash,3600,1500,5100
+P0269,2026-03-06,Friday,10:00,D015,Pulmonologist,13,Female,Low,Normal,4500,1500,6000
+P0270,2026-03-24,Tuesday,10:00,D007,Ophthalmologist,37,Male,Medium,Intense Itching,4950,2000,6950
+P0271,2026-03-12,Thursday,9:00,D014,Pulmonologist,38,Female,Low,Normal,6000,1000,7000
+P0272,2026-03-17,Tuesday,13:00,D011,Pulmonologist,66,Female,Low,Breathing Issues,5100,1500,6600
+P0273,2026-03-16,Monday,10:00,D008,Ophthalmologist,10,Female,Low,Injury/Surgery,3900,1500,5400
+P0274,2026-03-18,Wednesday,9:00,D009,Ophthalmologist,53,Female,Medium,Intense Itching,4050,1500,5550
+P0275,2026-03-18,Wednesday,14:00,D015,Pulmonologist,52,Male,Low,Breathing Issues,4500,1500,6000
+P0276,2026-03-12,Thursday,12:00,D003,Dermatologist,41,Male,High,Normal,5550,1000,6550
+P0277,2026-03-18,Wednesday,12:00,D012,Pulmonologist,16,Female,Medium,Nasal Congestion,5700,1500,7200
+P0278,2026-03-23,Monday,12:00,D006,Ophthalmologist,5,Male,High,Intense Itching,3150,2000,5150
+P0279,2026-03-24,Tuesday,14:00,D008,Ophthalmologist,38,Male,High,Intense Itching,3900,2000,5900
+P0280,2026-03-30,Monday,14:00,D002,Dermatologist,31,Male,Medium,Rash,4800,2000,6800
+P0281,2026-03-31,Tuesday,14:00,D011,Pulmonologist,47,Male,High,Nasal Congestion,5100,2000,7100
+P0282,2026-03-26,Thursday,13:00,D015,Pulmonologist,74,Male,Medium,Nasal Congestion,4500,2000,6500
+P0283,2026-03-16,Monday,10:00,D012,Pulmonologist,39,Female,High,Nasal Congestion,5700,1500,7200
+P0284,2026-03-02,Monday,13:00,D004,Dermatologist,15,Female,Medium,Dryness,4050,1500,5550
+P0285,2026-03-23,Monday,13:00,D015,Pulmonologist,60,Female,Low,Nasal Congestion,4500,2000,6500
+P0286,2026-03-17,Tuesday,14:00,D006,Ophthalmologist,67,Female,High,Intense Itching,3150,1500,4650
+P0287,2026-03-10,Tuesday,11:00,D014,Pulmonologist,56,Female,High,Normal,6000,1000,7000
+P0288,2026-03-17,Tuesday,13:00,D004,Dermatologist,26,Female,Low,Rash,4050,1500,5550
+P0289,2026-03-23,Monday,11:00,D009,Ophthalmologist,11,Male,High,Redness,4050,2000,6050
+P0290,2026-03-06,Friday,12:00,D009,Ophthalmologist,29,Female,Low,Normal,4050,1500,5550
+P0291,2026-03-30,Monday,10:00,D007,Ophthalmologist,47,Male,High,Redness,4950,2000,6950
+P0292,2026-03-19,Thursday,10:00,D010,Ophthalmologist,56,Female,Low,Redness,5250,1500,6750
+P0293,2026-03-13,Friday,12:00,D008,Ophthalmologist,47,Male,Low,Normal,3900,1000,4900
+P0294,2026-03-04,Wednesday,13:00,D014,Pulmonologist,47,Female,Medium,Normal,6000,1500,7500
+P0295,2026-03-16,Monday,11:00,D008,Ophthalmologist,45,Female,Low,Intense Itching,3900,1500,5400
+P0296,2026-03-04,Wednesday,11:00,D008,Ophthalmologist,45,Female,Medium,Normal,3900,1500,5400
+P0297,2026-03-18,Wednesday,10:00,D015,Pulmonologist,62,Male,High,Breathing Issues,4500,1500,6000
+P0298,2026-03-16,Monday,13:00,D015,Pulmonologist,37,Female,Low,Nasal Congestion,4500,1500,6000
+P0299,2026-03-02,Monday,13:00,D006,Ophthalmologist,28,Male,Low,Normal,3150,1500,4650
+P0300,2026-03-18,Wednesday,13:00,D002,Dermatologist,38,Female,Low,Normal,4800,1500,6300
+P0301,2026-03-09,Monday,13:00,D001,Dermatologist,78,Male,Low,Normal,5400,1000,6400
+P0302,2026-03-05,Thursday,11:00,D001,Dermatologist,71,Female,Medium,Dryness,5400,1500,6900
+P0303,2026-03-27,Friday,14:00,D005,Dermatologist,60,Male,High,Rash,3600,2000,5600
+P0304,2026-03-17,Tuesday,10:00,D005,Dermatologist,74,Male,Medium,Rash,3600,1500,5100
+P0305,2026-03-12,Thursday,12:00,D012,Pulmonologist,75,Male,Medium,Normal,5700,1000,6700
+P0306,2026-03-04,Wednesday,11:00,D008,Ophthalmologist,73,Male,High,Normal,3900,1500,5400
+P0307,2026-03-02,Monday,9:00,D012,Pulmonologist,62,Male,Low,Normal,5700,1500,7200
+P0308,2026-03-12,Thursday,11:00,D008,Ophthalmologist,80,Male,High,Normal,3900,1000,4900
+P0309,2026-03-03,Tuesday,12:00,D013,Pulmonologist,30,Female,High,Normal,3600,1500,5100
+P0310,2026-03-04,Wednesday,12:00,D001,Dermatologist,29,Male,Low,Dryness,5400,1500,6900
+P0311,2026-03-02,Monday,10:00,D003,Dermatologist,23,Female,Medium,Dryness,5550,1500,7050
+P0312,2026-03-24,Tuesday,13:00,D013,Pulmonologist,34,Female,Medium,Nasal Congestion,3600,2000,5600
+P0313,2026-03-13,Friday,14:00,D006,Ophthalmologist,37,Male,High,Normal,3150,1000,4150
+P0314,2026-03-18,Wednesday,9:00,D007,Ophthalmologist,15,Female,Medium,Redness,4950,1500,6450
+P0315,2026-03-27,Friday,13:00,D002,Dermatologist,61,Male,Low,Rash,4800,2000,6800
+P0316,2026-03-25,Wednesday,11:00,D012,Pulmonologist,33,Female,Low,Nasal Congestion,5700,2000,7700
+P0317,2026-03-26,Thursday,11:00,D012,Pulmonologist,66,Female,High,Nasal Congestion,5700,2000,7700
+P0318,2026-03-03,Tuesday,12:00,D014,Pulmonologist,74,Female,High,Normal,6000,1500,7500
+P0319,2026-03-13,Friday,10:00,D007,Ophthalmologist,62,Female,Low,Normal,4950,1000,5950
+P0320,2026-03-06,Friday,13:00,D013,Pulmonologist,33,Male,Low,Normal,3600,1500,5100
+P0321,2026-03-27,Friday,14:00,D010,Ophthalmologist,29,Female,High,Redness,5250,2000,7250
+P0322,2026-03-03,Tuesday,9:00,D005,Dermatologist,11,Male,Low,Dryness,3600,1500,5100
+P0323,2026-03-13,Friday,9:00,D008,Ophthalmologist,41,Female,Medium,Normal,3900,1000,4900
+P0324,2026-03-10,Tuesday,14:00,D004,Dermatologist,18,Female,High,Normal,4050,1000,5050
+P0325,2026-03-30,Monday,12:00,D014,Pulmonologist,75,Male,Low,Nasal Congestion,6000,2000,8000
+P0326,2026-03-06,Friday,13:00,D014,Pulmonologist,38,Female,High,Normal,6000,1500,7500
+P0327,2026-03-18,Wednesday,9:00,D005,Dermatologist,41,Female,Medium,Normal,3600,1500,5100
+P0328,2026-03-12,Thursday,11:00,D003,Dermatologist,6,Female,Medium,Normal,5550,1000,6550
+P0329,2026-03-31,Tuesday,11:00,D015,Pulmonologist,76,Female,High,Breathing Issues,4500,2000,6500
+P0330,2026-03-30,Monday,14:00,D014,Pulmonologist,51,Female,Medium,Breathing Issues,6000,2000,8000
+P0331,2026-03-09,Monday,11:00,D009,Ophthalmologist,67,Female,Low,Normal,4050,1000,5050
+P0332,2026-03-25,Wednesday,9:00,D007,Ophthalmologist,27,Female,Medium,Intense Itching,4950,2000,6950
+P0333,2026-03-23,Monday,10:00,D007,Ophthalmologist,12,Female,Medium,Intense Itching,4950,2000,6950
+P0334,2026-03-24,Tuesday,9:00,D007,Ophthalmologist,77,Male,Low,Intense Itching,4950,2000,6950
+P0335,2026-03-19,Thursday,10:00,D007,Ophthalmologist,70,Male,Medium,Redness,4950,1500,6450
+P0336,2026-03-04,Wednesday,12:00,D001,Dermatologist,71,Female,Medium,Dryness,5400,1500,6900
+P0337,2026-03-20,Friday,12:00,D001,Dermatologist,57,Male,High,Normal,5400,1500,6900
+P0338,2026-03-31,Tuesday,12:00,D010,Ophthalmologist,15,Male,Medium,Redness,5250,2000,7250
+P0339,2026-03-13,Friday,10:00,D015,Pulmonologist,46,Male,Medium,Normal,4500,1000,5500
+P0340,2026-03-31,Tuesday,12:00,D012,Pulmonologist,20,Male,High,Breathing Issues,5700,2000,7700
+P0341,2026-03-04,Wednesday,12:00,D005,Dermatologist,11,Female,High,Dryness,3600,1500,5100
+P0342,2026-03-17,Tuesday,10:00,D012,Pulmonologist,19,Female,High,Nasal Congestion,5700,1500,7200
+P0343,2026-03-03,Tuesday,11:00,D009,Ophthalmologist,62,Male,High,Normal,4050,1500,5550
+P0344,2026-03-05,Thursday,12:00,D001,Dermatologist,7,Male,High,Dryness,5400,1500,6900
+P0345,2026-03-12,Thursday,11:00,D014,Pulmonologist,43,Male,Low,Normal,6000,1000,7000
+P0346,2026-03-05,Thursday,11:00,D009,Ophthalmologist,25,Female,High,Normal,4050,1500,5550
+P0347,2026-03-31,Tuesday,9:00,D005,Dermatologist,26,Male,Low,Rash,3600,2000,5600
+P0348,2026-03-18,Wednesday,12:00,D010,Ophthalmologist,14,Male,Low,Intense Itching,5250,1500,6750
+P0349,2026-03-31,Tuesday,10:00,D010,Ophthalmologist,18,Male,Low,Redness,5250,2000,7250
+P0350,2026-03-20,Friday,10:00,D002,Dermatologist,24,Female,Low,Normal,4800,1500,6300
+P0351,2026-03-11,Wednesday,10:00,D008,Ophthalmologist,44,Female,Medium,Normal,3900,1000,4900
+P0352,2026-03-06,Friday,14:00,D007,Ophthalmologist,10,Male,Low,Normal,4950,1500,6450
+P0353,2026-03-31,Tuesday,10:00,D009,Ophthalmologist,14,Male,High,Redness,4050,2000,6050
+P0354,2026-03-06,Friday,10:00,D013,Pulmonologist,58,Female,Low,Normal,3600,1500,5100
+P0355,2026-03-06,Friday,10:00,D015,Pulmonologist,29,Female,Medium,Normal,4500,1500,6000
+P0356,2026-03-27,Friday,13:00,D001,Dermatologist,16,Male,Low,Rash,5400,2000,7400
+P0357,2026-03-12,Thursday,9:00,D014,Pulmonologist,27,Male,Medium,Normal,6000,1000,7000
+P0358,2026-03-16,Monday,12:00,D006,Ophthalmologist,79,Female,High,Intense Itching,3150,1500,4650
+P0359,2026-03-25,Wednesday,9:00,D001,Dermatologist,12,Female,High,Rash,5400,2000,7400
+P0360,2026-03-23,Monday,9:00,D011,Pulmonologist,29,Male,Medium,Nasal Congestion,5100,2000,7100
+P0361,2026-03-30,Monday,13:00,D011,Pulmonologist,66,Female,Medium,Breathing Issues,5100,2000,7100
+P0362,2026-03-04,Wednesday,9:00,D010,Ophthalmologist,55,Male,Medium,Injury/Infection,5250,1500,6750
+P0363,2026-03-18,Wednesday,14:00,D006,Ophthalmologist,40,Male,Low,Redness,3150,1500,4650
+P0364,2026-03-03,Tuesday,12:00,D008,Ophthalmologist,5,Female,Medium,Normal,3900,1500,5400
+P0365,2026-03-18,Wednesday,11:00,D012,Pulmonologist,77,Female,High,Nasal Congestion,5700,1500,7200
+P0366,2026-03-30,Monday,12:00,D006,Ophthalmologist,10,Male,Low,Redness,3150,2000,5150
+P0367,2026-03-03,Tuesday,12:00,D001,Dermatologist,74,Female,Medium,Dryness,5400,1500,6900
+P0368,2026-03-03,Tuesday,13:00,D002,Dermatologist,9,Female,Low,Dryness,4800,1500,6300
+P0369,2026-03-23,Monday,10:00,D001,Dermatologist,13,Female,Low,Rash,5400,2000,7400
+P0370,2026-03-31,Tuesday,11:00,D008,Ophthalmologist,26,Male,Medium,Intense Itching,3900,2000,5900
+P0371,2026-03-03,Tuesday,11:00,D013,Pulmonologist,19,Male,High,Normal,3600,1500,5100
+P0372,2026-03-19,Thursday,12:00,D008,Ophthalmologist,14,Female,Low,Intense Itching,3900,1500,5400
+P0373,2026-03-26,Thursday,13:00,D003,Dermatologist,35,Female,High,Rash,5550,2000,7550
+P0374,2026-03-23,Monday,10:00,D008,Ophthalmologist,27,Male,Low,Redness,3900,2000,5900
+P0375,2026-03-31,Tuesday,9:00,D003,Dermatologist,38,Male,High,Rash,5550,2000,7550
+P0376,2026-03-13,Friday,9:00,D012,Pulmonologist,65,Female,Low,Normal,5700,1000,6700
+P0377,2026-03-24,Tuesday,11:00,D006,Ophthalmologist,45,Male,Low,Intense Itching,3150,2000,5150
+P0378,2026-03-17,Tuesday,13:00,D002,Dermatologist,37,Male,High,Rash,4800,1500,6300
+P0379,2026-03-30,Monday,11:00,D004,Dermatologist,32,Female,Low,Rash,4050,2000,6050
+P0380,2026-03-24,Tuesday,14:00,D007,Ophthalmologist,31,Female,Medium,Intense Itching,4950,2000,6950
+P0381,2026-03-27,Friday,14:00,D012,Pulmonologist,53,Female,Medium,Nasal Congestion,5700,2000,7700
+P0382,2026-03-27,Friday,9:00,D002,Dermatologist,75,Female,Medium,Rash,4800,2000,6800
+P0383,2026-03-26,Thursday,11:00,D013,Pulmonologist,6,Female,High,Breathing Issues,3600,2000,5600
+P0384,2026-03-30,Monday,12:00,D012,Pulmonologist,5,Male,High,Nasal Congestion,5700,2000,7700
+P0385,2026-03-13,Friday,10:00,D006,Ophthalmologist,58,Female,High,Normal,3150,1000,4150
+P0386,2026-03-12,Thursday,11:00,D005,Dermatologist,32,Male,High,Normal,3600,1000,4600
+P0387,2026-03-13,Friday,11:00,D007,Ophthalmologist,22,Female,Low,Normal,4950,1000,5950
+P0388,2026-03-02,Monday,10:00,D009,Ophthalmologist,47,Female,Medium,Normal,4050,1500,5550
+P0389,2026-03-03,Tuesday,9:00,D002,Dermatologist,16,Male,High,Dryness,4800,1500,6300
+P0390,2026-03-02,Monday,12:00,D012,Pulmonologist,31,Female,Low,Normal,5700,1500,7200
+P0391,2026-03-30,Monday,9:00,D002,Dermatologist,14,Male,High,Rash,4800,2000,6800
+P0392,2026-03-17,Tuesday,11:00,D008,Ophthalmologist,31,Male,Medium,Redness,3900,1500,5400
+P0393,2026-03-03,Tuesday,13:00,D002,Dermatologist,19,Female,High,Dryness,4800,1500,6300
+P0394,2026-03-19,Thursday,13:00,D004,Dermatologist,34,Female,Low,Rash,4050,1500,5550
+P0395,2026-03-09,Monday,10:00,D009,Ophthalmologist,28,Male,Low,Normal,4050,1000,5050
+P0396,2026-03-10,Tuesday,13:00,D011,Pulmonologist,78,Female,Medium,Normal,5100,1000,6100
+P0397,2026-03-13,Friday,14:00,D002,Dermatologist,60,Male,High,Normal,4800,1000,5800
+P0398,2026-03-16,Monday,13:00,D002,Dermatologist,58,Male,Medium,Normal,4800,1500,6300
+P0399,2026-03-04,Wednesday,12:00,D011,Pulmonologist,41,Female,High,Normal,5100,1500,6600
+P0400,2026-03-25,Wednesday,10:00,D010,Ophthalmologist,40,Female,Medium,Redness,5250,2000,7250
+P0401,2026-03-03,Tuesday,12:00,D009,Ophthalmologist,21,Female,High,Normal,4050,1500,5550
+P0402,2026-03-20,Friday,9:00,D012,Pulmonologist,57,Female,High,Breathing Issues,5700,1500,7200
+P0403,2026-03-10,Tuesday,9:00,D005,Dermatologist,41,Female,High,Normal,3600,1000,4600
+P0404,2026-03-20,Friday,11:00,D002,Dermatologist,21,Male,Medium,Normal,4800,1500,6300
+P0405,2026-03-17,Tuesday,10:00,D011,Pulmonologist,20,Female,Medium,Breathing Issues,5100,1500,6600
+P0406,2026-03-20,Friday,12:00,D015,Pulmonologist,50,Female,Low,Breathing Issues,4500,1500,6000
+P0407,2026-03-26,Thursday,12:00,D011,Pulmonologist,68,Male,Low,Breathing Issues,5100,2000,7100
+P0408,2026-03-06,Friday,11:00,D015,Pulmonologist,31,Female,Medium,Normal,4500,1500,6000
+P0409,2026-03-24,Tuesday,11:00,D004,Dermatologist,66,Male,Medium,Rash,4050,2000,6050
+P0410,2026-03-13,Friday,11:00,D005,Dermatologist,5,Female,Low,Normal,3600,1000,4600
+P0411,2026-03-25,Wednesday,14:00,D002,Dermatologist,54,Female,Low,Rash,4800,2000,6800
+P0412,2026-03-05,Thursday,11:00,D003,Dermatologist,7,Female,High,Dryness,5550,1500,7050
+P0413,2026-03-05,Thursday,11:00,D011,Pulmonologist,8,Female,High,Normal,5100,1500,6600
+P0414,2026-03-25,Wednesday,10:00,D003,Dermatologist,12,Female,Low,Rash,5550,2000,7550
+P0415,2026-03-09,Monday,13:00,D011,Pulmonologist,72,Female,High,Normal,5100,1000,6100
+P0416,2026-03-20,Friday,13:00,D014,Pulmonologist,72,Male,Medium,Nasal Congestion,6000,1500,7500
+P0417,2026-03-09,Monday,9:00,D005,Dermatologist,66,Male,High,Normal,3600,1000,4600
+P0418,2026-03-31,Tuesday,9:00,D006,Ophthalmologist,25,Male,Low,Redness,3150,2000,5150
+P0419,2026-03-25,Wednesday,14:00,D004,Dermatologist,48,Female,Low,Rash,4050,2000,6050
+P0420,2026-03-23,Monday,14:00,D012,Pulmonologist,73,Female,Medium,Breathing Issues,5700,2000,7700
+P0421,2026-03-25,Wednesday,11:00,D001,Dermatologist,27,Male,Low,Rash,5400,2000,7400
+P0422,2026-03-24,Tuesday,9:00,D004,Dermatologist,71,Male,Low,Rash,4050,2000,6050
+P0423,2026-03-30,Monday,11:00,D013,Pulmonologist,76,Male,High,Breathing Issues,3600,2000,5600
+P0424,2026-03-19,Thursday,10:00,D012,Pulmonologist,71,Male,High,Nasal Congestion,5700,1500,7200
+P0425,2026-03-17,Tuesday,12:00,D015,Pulmonologist,43,Female,Medium,Breathing Issues,4500,1500,6000
+P0426,2026-03-12,Thursday,10:00,D009,Ophthalmologist,60,Male,High,Normal,4050,1000,5050
+P0427,2026-03-19,Thursday,12:00,D011,Pulmonologist,77,Female,Medium,Nasal Congestion,5100,1500,6600
+P0428,2026-03-04,Wednesday,11:00,D007,Ophthalmologist,30,Male,High,Normal,4950,1500,6450
+P0429,2026-03-17,Tuesday,11:00,D015,Pulmonologist,43,Male,Medium,Breathing Issues,4500,1500,6000
+P0430,2026-03-26,Thursday,10:00,D002,Dermatologist,71,Male,High,Rash,4800,2000,6800
+P0431,2026-03-18,Wednesday,10:00,D005,Dermatologist,13,Male,Medium,Rash,3600,1500,5100
+P0432,2026-03-10,Tuesday,11:00,D006,Ophthalmologist,42,Female,High,Normal,3150,1000,4150
+P0433,2026-03-27,Friday,12:00,D002,Dermatologist,77,Female,Medium,Rash,4800,2000,6800
+P0434,2026-03-16,Monday,10:00,D007,Ophthalmologist,69,Female,High,Redness,4950,1500,6450
+P0435,2026-03-24,Tuesday,10:00,D012,Pulmonologist,78,Male,Low,Breathing Issues,5700,2000,7700
+P0436,2026-03-17,Tuesday,12:00,D009,Ophthalmologist,48,Male,Medium,Redness,4050,1500,5550
+P0437,2026-03-23,Monday,13:00,D003,Dermatologist,8,Female,High,Rash,5550,2000,7550
+P0438,2026-03-27,Friday,12:00,D009,Ophthalmologist,35,Male,Medium,Redness,4050,2000,6050
+P0439,2026-03-02,Monday,10:00,D007,Ophthalmologist,47,Male,Low,Normal,4950,1500,6450
+P0440,2026-03-12,Thursday,14:00,D011,Pulmonologist,15,Female,High,Normal,5100,1000,6100
+P0441,2026-03-19,Thursday,12:00,D015,Pulmonologist,68,Female,High,Nasal Congestion,4500,1500,6000
+P0442,2026-03-26,Thursday,11:00,D014,Pulmonologist,24,Male,Low,Breathing Issues,6000,2000,8000
+P0443,2026-03-03,Tuesday,9:00,D008,Ophthalmologist,14,Female,Low,Normal,3900,1500,5400
+P0444,2026-03-04,Wednesday,11:00,D014,Pulmonologist,71,Female,High,Normal,6000,1500,7500
+P0445,2026-03-05,Thursday,9:00,D007,Ophthalmologist,27,Male,Medium,Normal,4950,1500,6450
+P0446,2026-03-16,Monday,10:00,D006,Ophthalmologist,5,Female,Medium,Redness,3150,1500,4650
+P0447,2026-03-26,Thursday,14:00,D005,Dermatologist,74,Male,Medium,Rash,3600,2000,5600
+P0448,2026-03-31,Tuesday,10:00,D007,Ophthalmologist,53,Female,Medium,Intense Itching,4950,2000,6950
+P0449,2026-03-25,Wednesday,11:00,D006,Ophthalmologist,6,Male,Low,Redness,3150,2000,5150
+P0450,2026-03-11,Wednesday,10:00,D007,Ophthalmologist,78,Female,Medium,Normal,4950,1000,5950
+P0451,2026-03-30,Monday,11:00,D008,Ophthalmologist,14,Female,High,Intense Itching,3900,2000,5900
+P0452,2026-03-04,Wednesday,12:00,D010,Ophthalmologist,59,Male,High,Normal,5250,1500,6750
+P0453,2026-03-25,Wednesday,10:00,D015,Pulmonologist,74,Female,Low,Nasal Congestion,4500,2000,6500
+P0454,2026-03-24,Tuesday,14:00,D015,Pulmonologist,31,Female,Medium,Nasal Congestion,4500,2000,6500
+P0455,2026-03-11,Wednesday,11:00,D009,Ophthalmologist,35,Male,Medium,Normal,4050,1000,5050
+P0456,2026-03-18,Wednesday,12:00,D011,Pulmonologist,8,Female,High,Breathing Issues,5100,1500,6600
+P0457,2026-03-12,Thursday,12:00,D010,Ophthalmologist,54,Male,Low,Normal,5250,1000,6250
+P0458,2026-03-05,Thursday,11:00,D003,Dermatologist,45,Male,High,Dryness,5550,1500,7050
+P0459,2026-03-30,Monday,13:00,D014,Pulmonologist,78,Female,High,Breathing Issues,6000,2000,8000
+P0460,2026-03-10,Tuesday,13:00,D001,Dermatologist,68,Female,Medium,Normal,5400,1000,6400
+P0461,2026-03-30,Monday,13:00,D004,Dermatologist,65,Female,Medium,Rash,4050,2000,6050
+P0462,2026-03-12,Thursday,13:00,D005,Dermatologist,71,Female,Medium,Normal,3600,1000,4600
+P0463,2026-03-02,Monday,13:00,D003,Dermatologist,46,Male,High,Dryness,5550,1500,7050
+P0464,2026-03-12,Thursday,12:00,D010,Ophthalmologist,71,Male,High,Normal,5250,1000,6250
+P0465,2026-03-17,Tuesday,11:00,D015,Pulmonologist,22,Male,Medium,Nasal Congestion,4500,1500,6000
+P0466,2026-03-24,Tuesday,11:00,D006,Ophthalmologist,34,Male,Medium,Intense Itching,3150,2000,5150
+P0467,2026-03-25,Wednesday,10:00,D004,Dermatologist,41,Female,Low,Rash,4050,2000,6050
+P0468,2026-03-03,Tuesday,14:00,D012,Pulmonologist,37,Male,High,Normal,5700,1500,7200
+P0469,2026-03-12,Thursday,13:00,D001,Dermatologist,25,Male,Medium,Normal,5400,1000,6400
+P0470,2026-03-04,Wednesday,13:00,D013,Pulmonologist,17,Female,High,Normal,3600,1500,5100
+P0471,2026-03-11,Wednesday,11:00,D013,Pulmonologist,22,Female,High,Normal,3600,1000,4600
+P0472,2026-03-25,Wednesday,12:00,D006,Ophthalmologist,70,Male,Medium,Redness,3150,2000,5150
+P0473,2026-03-20,Friday,12:00,D002,Dermatologist,70,Male,High,Rash,4800,1500,6300
+P0474,2026-03-27,Friday,11:00,D010,Ophthalmologist,40,Female,Low,Intense Itching,5250,2000,7250
+P0475,2026-03-10,Tuesday,14:00,D006,Ophthalmologist,49,Male,Medium,Normal,3150,1000,4150
+P0476,2026-03-12,Thursday,9:00,D012,Pulmonologist,53,Male,Low,Normal,5700,1000,6700
+P0477,2026-03-11,Wednesday,10:00,D013,Pulmonologist,51,Male,Low,Normal,3600,1000,4600
+P0478,2026-03-12,Thursday,10:00,D009,Ophthalmologist,39,Female,High,Normal,4050,1000,5050
+P0479,2026-03-26,Thursday,9:00,D013,Pulmonologist,80,Female,High,Nasal Congestion,3600,2000,5600
+P0480,2026-03-04,Wednesday,9:00,D010,Ophthalmologist,19,Female,High,Normal,5250,1500,6750
+P0481,2026-03-30,Monday,10:00,D010,Ophthalmologist,59,Female,Low,Redness,5250,2000,7250
+P0482,2026-03-26,Thursday,13:00,D014,Pulmonologist,45,Female,Low,Breathing Issues,6000,2000,8000
+P0483,2026-03-31,Tuesday,9:00,D001,Dermatologist,16,Male,Low,Rash,5400,2000,7400
+P0484,2026-03-25,Wednesday,9:00,D002,Dermatologist,38,Female,Low,Rash,4800,2000,6800
+P0485,2026-03-11,Wednesday,10:00,D011,Pulmonologist,25,Male,Medium,Normal,5100,1000,6100
+P0486,2026-03-16,Monday,14:00,D006,Ophthalmologist,76,Male,Medium,Injury/Infection,3150,1500,4650
+P0487,2026-03-16,Monday,11:00,D003,Dermatologist,35,Male,Medium,Rash,5550,1500,7050
+P0488,2026-03-02,Monday,9:00,D012,Pulmonologist,16,Male,Low,Normal,5700,1500,7200
+P0489,2026-03-04,Wednesday,9:00,D009,Ophthalmologist,52,Female,Low,Injury/Infection,4050,1500,5550
+P0490,2026-03-26,Thursday,14:00,D003,Dermatologist,13,Male,Low,Rash,5550,2000,7550
+P0491,2026-03-09,Monday,12:00,D010,Ophthalmologist,16,Female,Low,Normal,5250,1000,6250
+P0492,2026-03-26,Thursday,12:00,D004,Dermatologist,43,Male,High,Rash,4050,2000,6050
+P0493,2026-03-09,Monday,14:00,D004,Dermatologist,75,Male,High,Normal,4050,1000,5050
+P0494,2026-03-18,Wednesday,13:00,D005,Dermatologist,36,Male,Medium,Normal,3600,1500,5100
+P0495,2026-03-30,Monday,12:00,D003,Dermatologist,23,Male,Medium,Rash,5550,2000,7550
+P0496,2026-03-06,Friday,11:00,D015,Pulmonologist,41,Female,Low,Normal,4500,1500,6000
+P0497,2026-03-23,Monday,9:00,D001,Dermatologist,11,Male,High,Rash,5400,2000,7400
+P0498,2026-03-23,Monday,9:00,D012,Pulmonologist,39,Female,Medium,Nasal Congestion,5700,2000,7700
+P0499,2026-03-27,Friday,13:00,D013,Pulmonologist,49,Female,High,Breathing Issues,3600,2000,5600
+P0500,2026-03-09,Monday,13:00,D008,Ophthalmologist,18,Male,High,Normal,3900,1000,4900

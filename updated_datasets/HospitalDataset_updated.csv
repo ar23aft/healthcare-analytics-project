@@ -1,0 +1,5 @@
+﻿Week,Avg_Patient_Intake,Hospital_Fee,Demand_Level,Notes
+Week 1,140,1500,1,
+Week 2,110,1000,0,
+Week 3,160,1500,2,"Pre holiday rush, and allergy season starting"
+Week 4,200,2000,3,Peak allergy season

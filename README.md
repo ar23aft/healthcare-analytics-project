@@ -13,8 +13,5 @@ Technologies that will be used:
 -Seaborn
 -Tensorflow
 
-Repository Structure:
- ( to be added soon)
-
 Status:
-Still in the initialisation phase of the project.
+Project finalised.

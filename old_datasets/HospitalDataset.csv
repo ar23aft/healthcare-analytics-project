@@ -1,0 +1,5 @@
+﻿Week,Avg_Patient_Intake,Hospital_Fee,Demand_Level,Notes
+Week 1,140,1500,Normal,
+Week 2,110,1000,Low,
+Week 3,160,1500,Medium,
+Week 4,200,2000,High,
